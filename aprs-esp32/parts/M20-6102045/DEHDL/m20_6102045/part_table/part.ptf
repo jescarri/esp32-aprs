@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'M20_6102045'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "M20-6102045" (!) = "", "RHDR40W66P254_2X20_5146X500X1105P", "Header, Receptacle - Straight PTH Box", "855-M20-6102045", "https://www.mouser.co.uk/ProductDetail/Harwin/M20-6102045?qs=pYcASEcTDE4FwHXnSlfG3Q%3D%3D", "", "", "PC / 104 Connectors PC104 STACK CONNECT 20+20 HI TEMP AU", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-1/sf-00022539.pdf", "11.05 mm"
+END_PART
+
+END.

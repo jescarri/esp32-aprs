@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M20-6102045
+D PC / 104 Connectors PC104 STACK CONNECT 20+20 HI TEMP AU
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-1/sf-00022539.pdf
+$ENDCMP
+#
+#End Doc Library
