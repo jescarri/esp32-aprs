@@ -489,6 +489,14 @@
     [
       "a1b6639c-4690-46a4-87ad-4e8d137735e6",
       ""
+    ],
+    [
+      "6c1cbfd3-9e60-480f-9ab0-533a38b3c37c",
+      "level_shifters"
+    ],
+    [
+      "dec0192c-6cf0-4e5b-a05b-6fe9ce74b23d",
+      "connectivity"
     ]
   ],
   "text_variables": {}

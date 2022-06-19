@@ -1,7 +1,7 @@
 (fp_lib_table
+  (lib (name "DRA818")(type "KiCad")(uri "${KIPRJMOD}/parts/DRA818")(options "")(descr ""))
+  (lib (name "M20-6102045")(type "KiCad")(uri "${KIPRJMOD}/parts/M20-6102045/KiCad")(options "")(descr ""))
   (lib (name "Conn1")(type "KiCad")(uri "/home/jescarri/workspace/jescarri/kicad-lib/10153303-30111LF/KiCad")(options "")(descr ""))
-  (lib (name "DRA818")(type "KiCad")(uri "/home/jescarri/workspace/jescarri/kicad-lib/DRA818")(options "")(descr ""))
   (lib (name "SI2301")(type "KiCad")(uri "/home/jescarri/workspace/jescarri/kicad-lib/SI2301/KiCad")(options "")(descr ""))
-  (lib (name "M20-6102045")(type "KiCad")(uri "/home/jescarri/workspace/jescarri/kicad-lib/M20-6102045/KiCad")(options "")(descr ""))
   (lib (name "lm4871mmx")(type "KiCad")(uri "/home/jescarri/workspace/jescarri/kicad-lib/LIB_LM4871MMX_NOPB/LM4871MMX_NOPB/KiCad")(options "")(descr ""))
 )

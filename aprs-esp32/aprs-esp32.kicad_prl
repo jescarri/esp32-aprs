@@ -3,13 +3,7 @@
     "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": false,
-    "hidden_nets": [
-      "GND",
-      "+4V",
-      "4V_E",
-      "+3V3_E",
-      "+3V3"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -39,6 +33,7 @@
       3,
       4,
       5,
+      7,
       8,
       9,
       10,
@@ -66,9 +61,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37
     ],
-    "visible_layers": "ffdffff_7ffffffe",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
